@@ -1,7 +1,3 @@
-# gioco_impiccato 
-
-Esame programmazione in C;
-
 Calcolatori Elettronici—Prova di programmazione in C 24 gennaio 2022
 
 Si vuole realizzare una variante interattiva del gioco dell’impiccato, 
@@ -26,6 +22,7 @@ fornito per un esempio di file di configurazione. Le parole da indovinare, nel
 file di configurazione, hanno alcuni caratteri maiuscoli: questi sono i
 suggerimenti, ossia i caratteri che vengono automaticamente inseriti e resi 
 visibili all’inizio del turno. 
+
 
 Il programma da realizzare quindi, deve seguire i seguenti passi:
 
@@ -52,7 +49,9 @@ Il programma da realizzare quindi, deve seguire i seguenti passi:
 	passa al turno successivo (ripartendo dal punto2);
 	
 	8. Quando sono state indovinate tutte le parole, il giocatore ha vinto la 
-	partita. Per semplicità, si assuma che il contenuto del file di 
-	configurazion è ben formato, ovvero senza errori: non è necessario 
-	effettuare alcun controllo sulla correttezza del formato del file di
-	configurazione;
+	partita.
+
+
+Per semplicità, si assuma che il contenuto del file di configurazion è ben 
+formato, ovvero senza errori: non è necessario effettuare alcun controllo sulla 
+correttezza del formato del file di configurazione.
